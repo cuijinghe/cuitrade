@@ -1,0 +1,6 @@
+{
+  "name": "FirstPage Landing Page",
+  "description": "구매 심리를 설계하는 1인치 고전환 랜딩페이지 솔루션 - 퍼스트페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
